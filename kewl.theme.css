@@ -15,13 +15,13 @@
 @import url('https://nyri4.github.io/Discolored/main.css');
 
 :root {
-  --main-color: #33404F;
-  --hover-color: #14181E;
+  --main-color: #6D88A7;
+  --hover-color: #2F3744;
   --success-color: #80A795;
   --danger-color: #884747;
   --url-color: #000000;
   --background-image: transparent;
-  --background-shading: 100%;
+  --background-shading: 20%;
   --background-position: center;
   --background-size: cover;
   --background-repeat: no-repeat;
@@ -102,5 +102,3 @@
 }
 
 /* Any custom CSS below here */
-
-
